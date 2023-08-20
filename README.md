@@ -21,3 +21,5 @@
 * `python manage.py migrate`
 * `python manage.py runserver`
 * Now open your browser and hit `https://localhost:8000`
+
+[Complete Doc can be found here for understanding architecture and stuff.](https://autumn-stitch-a8c.notion.site/Finder-app-51bf09bd59a241528a679e4bf091e6ca)
